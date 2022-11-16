@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="../Img/fav.png">
+    <title>Document</title>
+</head>
+<body>
+    <div class="header">
+        <div class="sides">
+          <a href="#" class="logo"><img src="../Img/logo2.png" width="200px"></a>
+        </div>
+        <div class="sides"> <a href="start.html" class="menu"> </a></div>
+        <div class="info">
+        <h4><a href="#category">Galerie</a></h4>
+          <h1>SHARKTANK</h1>
+          <div class="meta">
+            <a target="_b" class="author"></a><br>
+            By <a target="_b">Yannick Ledermann</a> 
+          </div>
+        </div>
+      </div>
+      
+
+      <section class="gal">
+      <div class="box">
+        <div class="imgBox">
+          <img src="../Img/Justin.png">
+        </div>
+        <div class="content">
+          <h2>Jusrin Feelds <p></p><span>Chicago Bears QB</span></h2>
+        </div>
+      </div>
+
+      <!--.......................................................-->
+      
+      <div class="box">
+        <div class="imgBox">
+          <video width="400px" autoplay>
+            <source src="../Img/video.MP4" type="video/mp4">
+            <source src="../Img/videoaudio.ogg" type="video/ogg">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+        <div class="content">
+          <h2>Bibedi <p></p><span>Bild fom Bares QB</span></h2>
+          
+          
+        </div>
+      </div>
+
+        <!--.......................................................-->
+      
+        <div class="box">
+          <div class="imgBox">
+            <img src="../Img/logo2.png">
+          </div>
+          <div class="content">
+            <h2>Bibedi</h2>
+          </div>
+        </div>
+
+        <div class="box">
+            <div class="imgBox">
+              <img src="../Img/Alex.png">
+            </div>
+            <div class="content">
+              <h2>Bibedi</h2>
+            </div>
+          </div>
+
+          <div class="box">
+            <div class="imgBox">
+              <img src="../Img/Alex.png">
+            </div>
+            <div class="content">
+              <h2>Bibedi</h2>
+            </div>
+          </div>
+
+          <div class="box">
+            <div class="imgBox">
+              <img src="../Img/Alex.png">
+            </div>
+            <div class="content">
+              <h2>Bibedi</h2>
+            </div>
+          </div>
+          
+      </section>
+
+      <footer id="foot">
+      </footer>
+      <script>
+        // When the user scrolls down 50px from the top of the document, resize the header's font size
+        window.onscroll = function() {scrollFunction()};
+        
+        function scrollFunction() {
+          if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+            document.getElementById("foot").style.height = "0px";
+            document.getElementById("foot").style.opacity = "0.1";
+          } else {
+            document.getElementById("foot").style.height = "40%";
+            document.getElementById("foot").style.opacity = "100%";
+          }
+        }
+        </script>
+</body>
+</html>
