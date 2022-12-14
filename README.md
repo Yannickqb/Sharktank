@@ -10,9 +10,35 @@ Training und an den Spielen macht, hab ich mir gedacht, ich mache eine Galerie m
 ## Bildformat
 > ### PNG
 > Sie werden hauptsächlich für Webgrafiken, Logos, Diagramme und Illustrationen und nicht für hochwertige Fotos verwendet, da sie mehr Speicherplatz beanspruchen als JPEGs. Eine Sache, die PNGs im Gegensatz zu JPEGs bieten, ist die Fähigkeit, Grafiken mit transparentem Hintergrund zu verarbeiten.
+> #### Vorteil:
+> – minimaler Kompressionsverlust. Die Bildqualität ändert sich durch keine Kompressionsrate;<br/> 
+– das Format ist passend für die Speicherung von dazwischenliegenden Versionen des Bildes. Wenn Sie ein Bild erneut speichern, dann geht die Qualität nicht verloren;<br/>
+– PNG unterstützt eine große Anzahl an Farben. PNG-8 (256 Farben) und PNG-24 (ungefähr 16,7 Millionen Farben);<br/>
+– es unterstützt eine vielschichtige Transparenz. Das Bild hat 256 Opazitätsstufen, von ganz undurchsichtig bis vollständig durchsichtig;<br/>
+– es ist möglich mit Schichten zu arbeiten;<br/>
+– die Fähigkeit die Datei zu den Metadaten hinzuzufügen;<br/>
+– kleine Dateigrößen.<br/>
+> #### Nachteil:
+> – es unterstützt nicht Animation;<br/>
+– unpassend für die Arbeit mit vollfarbigen Bildern;<br/>
+– kann nicht mehrere Bilder in einer Datei speichern;<br/>
+
+
 
 > ### JPG
 > Das JPG-Format wird am besten bei komplexen Bildern ohne Text verwendet.
+> #### Vorteile:
+> – stark kontrollierte Kompressionsrate. Der Benutzer wählt selbst das Verhältnis von Qualität/Dateigröße;<br/>
+– kleine Dateigröße;<br/>
+– das Format ist kompatibel mit allen Browsern, Text- und Grafikprogrammen und auf allen Computern, Tablets und mobilen Geräten und wird daher korrekt dargestellt;<br/>
+– geeignet für farbige, realistische Bilder mit vielen Farb- und Kontrastübergängen;<br/>
+– die Bildqualität ist mit wenig Komprimierung hoch.
+> #### Nachteile:
+> – das Bild könnte in einzelne, quadratische 8×8 Pixel-Blöcke „auseinanderfallen“, wenn Sie es komprimieren. Das passiert weil der Komprimierungsalgorithmus die benachbarten Pixel analysiert und deswegen könnten die Farbübergänge rau werden oder sogar verschwinden;<br/>
+– JPEG ist weniger geeignet für die Arbeit mit Text oder einfarbigen Grafiken mit klaren Grenzen;<br/>
+– das Format unterstützt nicht Transparenz, die beim Zeichnen von Vorlagen, Logos und Knöpfen notwendig ist;<br/>
+– jede weitere Bildkomprimierung verschlechtert die Qualität des Bildes.<br/>
+
 
 > ### JPEG
 > JPEGs are often used for web images because they can be compressed to much smaller file sizes than other types of image files. This makes them load faster on websites and reduces bandwidth costs for website owners. JPEGs are also often used for email attachments because they are small enough to send quickly.
