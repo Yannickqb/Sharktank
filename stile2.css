@@ -5,9 +5,14 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
+  margin-top: 0px;
+  margin-bottom: 25%;
+  padding: 0px;
   max-width: 1000px;
   position: relative;
+  align-items: center;
   margin: auto;
+  
 }
 
 /* Next & previous buttons */
@@ -87,4 +92,9 @@ img {vertical-align: middle;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+}
+
+.header2{
+  height: 50px;
+  background-color: black;
 }
