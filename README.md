@@ -45,3 +45,12 @@ Training und an den Spielen macht, hab ich mir gedacht, ich mache eine Galerie m
 
 > ### GIF
 > GIFs können in längeren Tutorials oder Lehrblogs sehr hilfreich sein, um die Zuschauer mit Schritt-für-Schritt-Anleitungen zu unterstützen. Genau wie Bilder können GIFs einfach in Webseiten und Beiträge eingebettet werden.
+
+## Galeri arten 
+> ### Slideshow 
+> +Eine Slideshow ist gut um eine Storyline zu zeigen, da der user bei einer Manuellen Slideshow die Slides selber wählen kann.<br/>
+> -Man sieht immer nur ein Bild und icht alle daher ist es nicht geeignet um viele Bilder zu zeigen. 
+
+> ## Galeri
+> +Man sieht viel Bilder auf einmal, daher ist diese Wariante sehr gut geeignet um eine umfassende Galeri zu machen.<br/>
+> -Da man alle Bilder sieht ist diese Form nicht gut geeignt um eine Storyline zu erzählen, ausserdem nimt es die Spannung welches Bild als nächstes kommt weg.
