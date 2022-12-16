@@ -54,3 +54,6 @@ Training und an den Spielen macht, hab ich mir gedacht, ich mache eine Galerie m
 > ## Galerie
 > +Man sieht viel Bilder auf einmal, daher ist diese Wariante sehr gut geeignet um eine umfassende Galeri zu machen.<br/>
 > -Da man alle Bilder sieht ist diese Form nicht gut geeignt um eine Storyline zu erzählen, ausserdem nimt es die Spannung welches Bild als nächstes kommt weg.
+
+## Bemwerkung:
+> Leider hat das deployment auf Git Hub Pages nicht funktioniert.
