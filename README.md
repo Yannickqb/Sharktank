@@ -56,4 +56,4 @@ Training und an den Spielen macht, hab ich mir gedacht, ich mache eine Galerie m
 > -Da man alle Bilder sieht ist diese Form nicht gut geeignt um eine Storyline zu erzählen, ausserdem nimt es die Spannung welches Bild als nächstes kommt weg.
 
 ## Bemwerkung:
-> Leider hat das deployment auf Git Hub Pages nicht funktioniert.
+> Leider läuft die Webseite auf Git hub pages nicht sehr flüssig.
