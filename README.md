@@ -55,28 +55,28 @@ Training und an den Spielen macht, hab ich mir gedacht, ich mache eine Galerie m
 > +Man sieht viel Bilder auf einmal, daher ist diese Wariante sehr gut geeignet um eine umfassende Galeri zu machen.<br/>
 > -Da man alle Bilder sieht ist diese Form nicht gut geeignt um eine Storyline zu erzählen, ausserdem nimt es die Spannung welches Bild als nächstes kommt weg.
 
-##Planung Video 
+## Planung Video 
 
 > Da ich ein Highlight Video machen wollte war es schwer ein Storyboard zu schreiben, da ich einfach die besten Clips verwenden wollte. 
 
 > Aber um eine ungefähre Idee zu haben habe ich dennoch ein kleines Storyboard erstellt. 
 
-###Anfang: 
+### Anfang: 
 > Videos vom Meer und Haifisch, da der Name meines Team Sharks ist denke ich, dass dies ein guter Anfang ist. 
 
-###Szene 2: 
+### Szene 2: 
 > Video wie die Sharks in das Stadion einlaufen. 
 
-###Szene 3: 
+### Szene 3: 
 > Einige plays
 
-###Szene 4: 
+### Szene 4: 
 > Wenige Clips vom Trainingscamp und unserem Huddel. 
 
-###Szene 5: 
+### Szene 5: 
 > weitere plays
 
-###Musik: 
+### Musik: 
 > Da wir einen eigenen Song haben ist die Musik Auswahl einfach.
 
 ## Bemwerkung:
